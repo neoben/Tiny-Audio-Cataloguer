@@ -22,6 +22,8 @@ Tiny Audio Cataloguer is a small Python3 tool useful to catalogue and organize a
 
 ### Usage Example ###
 
+* Dir tree before running tool
+
 ```
 tree ~/Desktop/recover_audio                                                                                                                                                                     ✔  15:52:37 
 ~/Desktop/recover_audio
@@ -74,6 +76,8 @@ tree ~/Desktop/recover_audio                                                    
 0 directories, 45 files
 ```
 
+* Run Tiny Audio Cataloguer
+
 ```
 python3 audio-cataloguer.py -p ~/Desktop/recover_audio/ -q                                                                                                                                       ✔  15:56:02 
 Stating tag scanning...
@@ -81,6 +85,8 @@ Stating tag scanning...
 Starting file cataloguing...
 ...Done!
 ```
+
+* Dir tree after running tool
 
 ```
 tree ~/Desktop/recover_audio                                                                                                                                                                     ✔  16:03:25 
