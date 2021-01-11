@@ -1,5 +1,5 @@
 # README #
-Tiny Audio Cataloguer is a small Python3 tool useful to catalogue and organize audio file based on embedded meta tags such as artist, album and track.
+Tiny Audio Cataloguer is a small Python3 tool useful to catalogue and organize audio files based on embedded meta tags such as artist, album and track.
 
 
 ### Dependencies ###
